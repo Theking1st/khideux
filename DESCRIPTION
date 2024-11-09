@@ -1,0 +1,14 @@
+Package: ChiDeuxTest
+Type: Package
+Title: Test du khi-deux pour les tableaux de contingence et les vecteurs de fréquences
+Version: 0.1.0
+Author: Tokam_Paul [aut, cre]
+Maintainer: Paul <leroipauler@gmail.com>
+Description: Cette fonction effectue un test du khi-deux pour les tableaux de contingence et les vecteurs de fréquences.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    stats
+RoxygenNote: 7.3.2
